@@ -10,5 +10,7 @@ class fract
     unsigned int denom = 1;
 
 public:
-    void print(std::ostream &os); //  & <- referencja, nie kopuj zmiennej, tylko na niej działaj
+    int numerator() const; // const <- wartosc ulamka sie wtedy nie zmienia
+    unsigned int denominator() const;
+    void print(std::ostream &os) const; //  & <- referencja, nie kopuj zmiennej, tylko na niej działaj
 };
