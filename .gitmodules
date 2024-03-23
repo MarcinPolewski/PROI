@@ -1,3 +1,6 @@
 [submodule "Project-order-class"]
 	path = Project-order-class
 	url = https://github.com/MarcinPolewski/Project-order-class.git
+[submodule "Project-Fraction-class"]
+	path = Project-Fraction-class
+	url = https://github.com/MarcinPolewski/Project-Fraction-class.git
