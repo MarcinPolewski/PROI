@@ -13,5 +13,6 @@ unsigned int fract::denominator() const
 // tak  mowimy, ze ta metoda jest elemntem klasy fract
 void fract::print(std::ostream &os) const
 {
+
     os << numerator() << '/' << denominator();
 }
