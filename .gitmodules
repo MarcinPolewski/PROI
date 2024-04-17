@@ -4,3 +4,6 @@
 [submodule "Project-Fraction-class"]
 	path = Project-Fraction-class
 	url = https://github.com/MarcinPolewski/Project-Fraction-class.git
+[submodule "Project-word-counter"]
+	path = Project-word-counter
+	url = https://github.com/MarcinPolewski/Project-word-counter.git
